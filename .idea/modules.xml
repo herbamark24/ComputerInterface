@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ComputerInterface/Class2/Class2.iml" filepath="$PROJECT_DIR$/ComputerInterface/Class2/Class2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComputerInterface/Class2/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/ComputerInterface/Class2/Exercise1/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm_Trial/Exercise1_trial/Exercise1_trial.iml" filepath="$PROJECT_DIR$/Midterm_Trial/Exercise1_trial/Exercise1_trial.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComputerInterface/Class2/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/ComputerInterface/Class2/Exercise2/Exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm_Trial/Exercise2_trial/Exercise2_trial.iml" filepath="$PROJECT_DIR$/Midterm_Trial/Exercise2_trial/Exercise2_trial.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComputerInterface/Class2/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/ComputerInterface/Class2/Exercise3/Exercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComputerInterface/Class2/Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/ComputerInterface/Class2/Exercise4/Exercise4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComputerInterface/Class2/Exercise5/Exercise5.iml" filepath="$PROJECT_DIR$/ComputerInterface/Class2/Exercise5/Exercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm_Trial/Midterm_Trial.iml" filepath="$PROJECT_DIR$/Midterm_Trial/Midterm_Trial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
     </modules>
   </component>
